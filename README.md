@@ -70,13 +70,7 @@ Settings: Adjust the Confidence Threshold (e.g., set between 0.25 and 0.80, othe
 
 Result:
 <img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/b4b9b105-4d74-4ee6-96d9-085155d44626" />
-
-https://imgur.com/a/BlCsxQN
-
 <img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/3500faf2-1da0-4159-a319-412a8d7c7f22" />
-
-
-https://imgur.com/a/McX9K2E
 
 Visual output with bounding boxes.
 
